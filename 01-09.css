@@ -97,5 +97,10 @@ text-transform: capitalize;
     font-size: 32px;
     text-transform: uppercase;
     
+    
+}
+.last a{
+    text-decoration: none;
+
 }
     
