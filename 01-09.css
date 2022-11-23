@@ -94,5 +94,8 @@ text-transform: capitalize;
 }
 .last {
     text-align: center;
+    font-size: 32px;
+    text-transform: uppercase;
+    
 }
     
